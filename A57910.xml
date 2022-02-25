@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Roberts message to my Lord of Essex with an answer to his desires touching the construction of the lawes and certaine other points to the great satisfaction of all people : wherein is declared his wicked resolutions mask'd under the pretention of loyalty unto his Uncle, Our Kings Majesty : together with his desire of a pitch-field in Dunsmore-Heath with the true relation of his wicked and tyrannicall proceedings where hee goes : also the true relation of a challenge hee gave unto his excellencie &amp;c together with the entertainment hee and his brother, Prince Mavrice, found in Shrewsbury by the trained bands and other pieus people there inhabiting : also the wonderfull mercy of God shewed towards His Excellencie in delivering his honour from a fatall conspiracy pretended against his person at Worcester.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57910</idno>
+            <idno type="STC">Wing R2304</idno>
+            <idno type="STC">ESTC R20549</idno>
+            <idno type="EEBO-CITATION">12293615</idno>
+            <idno type="OCLC">ocm 12293615</idno>
+            <idno type="VID">58949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E121, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Roberts message to my Lord of Essex with an answer to his desires touching the construction of the lawes and certaine other points to the great satisfaction of all people : wherein is declared his wicked resolutions mask'd under the pretention of loyalty unto his Uncle, Our Kings Majesty : together with his desire of a pitch-field in Dunsmore-Heath with the true relation of his wicked and tyrannicall proceedings where hee goes : also the true relation of a challenge hee gave unto his excellencie &amp;c together with the entertainment hee and his brother, Prince Mavrice, found in Shrewsbury by the trained bands and other pieus people there inhabiting : also the wonderfull mercy of God shewed towards His Excellencie in delivering his honour from a fatall conspiracy pretended against his person at Worcester.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 6, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Maurice, --  Prince, 1620-1652.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:58949:1" rendition="simple:additions"/>
+                  <p>PRINCE ROBERTS MESSAGE, to my Lord of ESSEX: With an Anſwer to his deſires touching the con<g ref="char:EOLhyphen"/>ſtruction of the Lawes, and certaine other Points to the great ſatisfaction of all People. Wherein is Declared his wicked Reſolutions, mask'd under the pretention of Loyalty unto his Uncle
+<hi>(our Kings Majeſty)</hi> Together with his deſire of a Pitch-field in
+<hi>Dunſ<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ore-Heath,</hi> with the true relation of his wicked and Tyrannicall proceedings where
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. Alſo the true Relation of a Challenge hee gave unto his <hi>Excellencie,</hi> &amp;c. Together with the Entertainment hee and his Brother (Prince MAVRICE) found in <hi>Shrewsbury</hi> by the Trai<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed Bands, and other pious people there inhabiting. ALSO, The wonderfull mercy of God ſhewed towards his EXCELLENCIE, in delivering his Honour from a fatall Conſpirary pre<g ref="char:EOLhyphen"/>tended againſt his Perſon at <hi>Worceſter.</hi>
+                  </p>
+                  <p>
+                     <hi>London,</hi> Printed for THO: BANKES, <hi>Octob.</hi> 6.
+1642.</p>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:58949:2"/>
+                  <head>The diſcovery of a wonderfull
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> powder-plot pretended againſt his Ex<g ref="char:EOLhyphen"/>cellencie, at St. <hi>Peters</hi> Church at <hi>Worceſter.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">C</seg>Ertaine of Sir <hi>John Byrons</hi> Cavaleers having intelligence of my Lord of <hi>Eſſex</hi> his comming to
+<hi>VVorceſter,</hi> and withall knowing his Piety to be ſuch as that he ſeldome neglect Gods divine Service, thought there to have un<g ref="char:EOLhyphen"/>dermined his Perſon, making the Church the place and Sanctuary of their wicked Actions, for there was a certaine Vault under the Church, where they had con<g ref="char:EOLhyphen"/>veyed three Barrels of Powder, upon which they laid
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> heape of dead mens Bones for to blow that ſide of the Church where my Lord was to Seate himſelfe, (but ſee the won<g ref="char:EOLhyphen"/>derfull mercy of God, who was a watch eye ſtill on his be<g ref="char:EOLhyphen"/>loved) no ſooner was my Lord in his Coach comming to the Church but that the Sexton came running to his Excel<g ref="char:EOLhyphen"/>lency and ſaid that he feared ſome miſchief to be hatch<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> a<g ref="char:EOLhyphen"/>gainſt his Perſon, alleaging that there were three men that did often frequent the Church Vault, but he knew not their Intentions, and that the Key of the Vault doore was ſtole from him, which made the ſuſpition the more, on his words my Lord cauſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the doore to be broke open, and at their entrance they ſaw three men ſtand in Armour, whom they tooke and ap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rehended, and after further ſearch, they found as aforesaid,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Barrels of Powder under a heape of Bones with great ſtore of Pla<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> there hidden, all which my Lord cauſed to be taken away,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ding the three men up to be cenſured by the Honourable Houſes of Parliament.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:58949:2"/>
+                  <head>PRINCE ROBERTS Meſſage to my Lord of ESSEX.</head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Eere am I faine to ſpeake of a Prince that deſerves not the title of a Subject, one who pretends Piety in his tongue, but car<g ref="char:EOLhyphen"/>ries I feare meere Irre<g ref="char:EOLhyphen"/>ligion in his heart, and if his future Actions bee correſpondent or any way equivalent to his for<g ref="char:EOLhyphen"/>mer exploits, I ſhall greatly doubt whether I ſpeak of a <hi>Chriſtian</hi> or no, it requires an Age nere upon to uncaſe the whole ſtory of his wicked proceedings acted heere on our <hi>Brittiſh</hi>-ſhore; therefore I will<pb n="2" facs="tcp:58949:3"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of his late
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> thoſe that were
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of his Meſſage to my
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was to this effect, <hi>That
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Generall of the Par<g ref="char:EOLhyphen"/>liaments Army, without the conſent of his Soveraigne, but rather to confront and oppoſe his Maieſties Per<g ref="char:EOLhyphen"/>ſon; that therefore, hee might with as iuſt Grounds</hi> (though being a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orraig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e) <hi>by the Law of <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> aſsiſt
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Maieſty againſt any ſuch perſon, that <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a<g ref="char:EOLhyphen"/>ny occaſion ſhould diſobey His Royall Command,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ging that a King though hee raigne <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ever ſo Tyranni<g ref="char:EOLhyphen"/>call, impoſe an vniuſt Tax on the Subiects bee
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſo heavie, yet notwithſtanding are they by the Laws of God not to withdraw their Duty and Obedience from him.</hi> To this I anſwer, That the ſacred Writ binds a Subject to obey a good Soveraigne, not (as I thinke) to heare with a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> one; rather to procure abatement in rigour Authority, than to ſu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> a continuall perſeverance of a worſe [<hi>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>edientiam</hi>] 'tis true [<hi>So<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c Conditione, ſi legitime Imper<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Magiſtratus non Tyrannicè.</hi>] Wee promiſe obedience to a Magiſtrate no farther then his acti<g ref="char:EOLhyphen"/>ons are done legally, according to the accuſto<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ry lawes of the Land and the right meaning thereof, not according to his owne Conſtructions and In<g ref="char:EOLhyphen"/>ventions; ſo ſuppoſe there ſhould be a double con<g ref="char:EOLhyphen"/>ſtruction in ſome particular points of Law, who more fitter to decide them then they that made them, who more fitter to Correct and abate the ri<g ref="char:EOLhyphen"/>gour
+<pb n="3" facs="tcp:58949:3"/>of th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the fundamentall Spring from whence they flow, and ſhall <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Parliaments ther are the chiefe founders of Lawes be exempted from Conſtruing them (heavens forbid) withall concerning the <hi>Taxes</hi> hee mentions 'tis not a little knowne to the great griefe of many a poore Sub<g ref="char:EOLhyphen"/>ject, the ſtrickt
+<hi>Monopolyes</hi> and quotidian taxati<g ref="char:EOLhyphen"/>ons this Kingdome of <hi>England</hi> is ſaid for a long time hath beene ſheckled and fettred in, but if the corruption of <hi>La<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yers</hi> and
+<hi>Judges</hi> be ſuch as to maintaine illegall proceedings in a common wealth by their vnjuſt exactions, yet may good Subjects (and that with a cleere Conſcience) neglect a will<g ref="char:EOLhyphen"/>ing performance of the ſame; Tributs may well be denied where unjuſtly exacted, (according to the common and true proverbe) and though the Cava<g ref="char:EOLhyphen"/>leers alledge the Law for all their Actions, tis wil<g ref="char:EOLhyphen"/>lingly granted both to His Majeſty then, and all his good Subjects, ſo farre it tis executed and ground<g ref="char:EOLhyphen"/>ed upon Juſtice, but no farther; and I could hearti<g ref="char:EOLhyphen"/>ly wiſh it were in full execution upon all ſuch de<g ref="char:EOLhyphen"/>manders that require Juſtice from others, when (in all their Actions) who more unjuſt then themſelves why call they not for Juſtice upon thoſe that pill<g ref="char:EOLhyphen"/>age poore peoples houſes without any right or rea<g ref="char:EOLhyphen"/>ſon for the ſame, why not for thoſe that Raviſh all they meete with, firing and deſtroying all in their way, murdering poore Infants that ſcarce have the diſcretion to call for ſuccour or aid: no, they expect that their owne Tyrannicall Actions muſt ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>pe<pb n="4" facs="tcp:58949:4"/>Scot-free; He pleads likewiſe for the <hi>Prorogative of the King</hi> (not regarding the priviledge of the Subject) <hi>alleaging that in the behalfe of his <g ref="char:V">Ʋ</g>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> he is Reſolved to live and dye:</hi> To this, I aske what Prerogative is debarred from His Majeſty, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ought that remained for the ſafety, and honour of his per<g ref="char:EOLhyphen"/>ſon, and the good of this his Kingdome; but I true<g ref="char:EOLhyphen"/>ly ſuppoſe that he makes this but a cloake for his proceedings, for tis well known there's no Preroga<g ref="char:EOLhyphen"/>tive for him allotted in this Realme, for the pil<g ref="char:EOLhyphen"/>laging of Townes, and firing of Houſes.</p>
+                  <floatingText type="letter">
+                     <body>
+                        <head>The true COPPIE and forme of his Meſſage was as followeth.</head>
+                        <opener>
+                           <salute>MY LORD,</salute>
+                        </opener>
+                        <p>I Heare you are Generall of an Army, ſent by the agreement of both Houſes of Parliament (under the pretence of Subduing ſome Malignant per<g ref="char:EOLhyphen"/>ſons unto th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſe parts) but we greatly feare you <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> at ſome higher power, namely your owne Soveraigne, if your intents are ſuch, give but the leaſt notice thereof, And I ſhall be ready in His behalf to give you an en<g ref="char:EOLhyphen"/>counter in a Picht feild, at <hi>Dunſmore-heath,</hi> the 10. day of
+<hi>October</hi> next, and if you thinke it too much la<g ref="char:EOLhyphen"/>bour and expences to draw your Forces thither, I ſhall as willingly for my own part expect private ſatisfaction at your hands for the ſame heere, and that performed by a ſingle <hi>Duell;</hi> which proffer if you pleaſe to accept,
+<pb n="5" facs="tcp:58949:4"/>you ſhall not finde me backward in performing what I have ſaid or promiſed, I know my cauſe to be ſo Iuſt that I need not, for what I doe is agreeable both to the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>es of God and man, in the defence of true Religion, a Kings Prerogative, and Vncles right, and a King<g ref="char:EOLhyphen"/>domes ſafety; Thinke it therefore not ſtrange that a Forraigne ſhould take footing upon your <hi>Engliſh</hi> ſhore with intention to draw the Sword, when the Law of Armes promps him on to that Reſolution, you cannot taxe your King of ought, without too much clemencie and goodneſſe ſhewed towards his people, when that his Perſon is thus moleſted by his owne Subjects, ſuppoſe that He had ſwayed his Scepter with a ſtrict hand, rai<g ref="char:EOLhyphen"/>ning in the Bridle of Authority with harſh Taxati<g ref="char:EOLhyphen"/>ons and Tyrannie (which 'tis too well knowne he did e<g ref="char:EOLhyphen"/>ver abhorre as infectious to his Sacred
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ſon) yet I ſay were it ſo, the Subjects are not thereupon to with<g ref="char:EOLhyphen"/>draw their Obedience and Duty neither by the Lawes of God nor the Lawes of man, for they are however or at leaſtwiſe ſhould be ſtill his Subiects; for theſe rea<g ref="char:EOLhyphen"/>ſons and divers others that I could alledge, I am reſol<g ref="char:EOLhyphen"/>ved in the defence of ſo just a Cauſe to hazard my life and being, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d endeavour the deſtruction of all thoſe that ſhall any way oppoſe my Reſolution therein. Now have I ſaid all, and what more you expect of me to be ſaid ſhall be delivered in a larger field then a ſmall ſheet of Paper, and that by my Sword and not my Pen, in the interim I am your friend till I meet you next.</p>
+                     </body>
+                  </floatingText>
+                  <p>But before this Meſſage was delivered unto his Excellency, newes was brought that Prince <hi>Robert</hi>
+                     <pb facs="tcp:58949:5"/>had received a dangerous wound in the head by <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>Sands</hi> in a <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> within three miles of <hi>W<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> that this matter <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> their Conſideration.</p>
+                  <p>This Prince had <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> great miſchiefe to many <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this Kingdome, likewiſe hee and all his followers
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ever they goe, leave not a houſe in their way <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> they tooke from one Mr. <hi>Hambury</hi> a Gentleman of
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceſterſhire, ſeaven hundred pound in money beſide <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and other ſpoyles they tooke from his Houſe. This P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with his Brother Prince
+<hi>Maurice,</hi> being drove from <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceſter by Colonell <hi>Fines</hi> his Souldiers, betooke th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with all their forces toward
+<hi>Shrewsbury,</hi> where they <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſuch hot Entertainment that they were quickly
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> take a flight thorow
+<hi>Severne</hi> for their ſafety, for <hi>S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>bury</hi> is ſo inviron'd with water, that there is but
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for paſſage unto the Towne, which the Towneſm<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> knowing their advantage did guard that with the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bands, ſo that the Prince being likewiſe purſued <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Reare by Colonell <hi>Fines,</hi> was faine to take water
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> his followers.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:58949:6" rendition="simple:additions"/>
+                  <p>A CONTINVATION Of certain Speciall and Remarkable paſſages from both Houſes of PARLIAMENT, and divers other parts of the
+<hi>Kingdome,</hi> from <hi>Wendneſday</hi> the 5. of <hi>October</hi> till the Eight of <hi>October.</hi> 1642. Containing theſe particulars,
+<hi>viz.</hi>
+                     <list>
+                        <item>1. A true Relation of the taking of a Shippe at Yarmouth comming from Hol<g ref="char:EOLhyphen"/>land with great ſtore of Ammunition, 150. Commanders, and
+400. barrells of Powder and other proviſions.</item>
+                        <item>2. The intercepting of certaine Letters in the ſaid ſhippe by an accident, and their bringing to the Parliament, by which it was enformed that there is a<g ref="char:EOLhyphen"/>nother Shippe comming from the Queene with great ſtore of proviſions and Monies, And an Order ſent to the Earle of Warwicke to uſe all poſsible meanes to intercept the ſame.</item>
+                        <item>3. A true Relation of the Kings ſending for the Maſters of the Mint from the Tower, with an Order of Parliament againſt their going.</item>
+                        <item>4. A true relation of his Majeſties ſending of the Lord Faulkland into Ireland, with a Relation of the Parliaments proceedings concerning the Earle of Leiceſter.</item>
+                        <item>5. A vote of the Houſe of Commons for the expelling of one of their members.</item>
+                        <item>6. Of the Commitment of one Maſter Price to the Gatehouſe for ſpeaking of words againſt the Parliament.</item>
+                        <item>7. A True Relation of Sir Ralph Hopton and ſome other of his confederates poſſeſsing themſelves of Sir Nicholas Slanies Caſtle in Cornewell.</item>
+                        <item>8. Of the Bill agreed upon by the Parliament for the Synod to meete by the fifth of November next.</item>
+                        <item>9. Of the Parliamens ſending into Ireland for the Earle of Antrim taken pri<g ref="char:EOLhyphen"/>ſoner by the Scotts in the Noth of Ireland.</item>
+                        <item>10. A true relation of the Earle of Stanfords ſecuring of Hereford with 500. horſe and 2000. foote.</item>
+                        <item>11. A certaine relation of the Kings fortifying of Shrewsbury, and ſending of Prince Rober with his maine forces to Bridge North and ſome further pro<g ref="char:EOLhyphen"/>ceedings of that Army.</item>
+                        <item>12. Of Captaine Stradlings making eſcape into Ireland.</item>
+                        <item>13. The bringing of the High ſheriffe of Lincolne to the Parliament.</item>
+                        <item>14. The Examination of the keeper of the Gatehouſe, concerning Captaine Leggs eſcape.</item>
+                        <item>15. A relation of certaine Letters to the Parliament from Holland.</item>
+                     </list> 
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:58949:7"/>
+                  <pb facs="tcp:58949:7"/>
+                  <head>A CONTINVATION OF Certaine Speciall and Remarkable paſſages from both Houſes of Parliament and divers other parts of this Kingdome, From Wedneſday the fifth of <hi>October,</hi> till Sater<g ref="char:EOLhyphen"/>day the Eight of <hi>October</hi> 1642.</head>
+                  <div type="day">
+                     <head>Thurſeday the 6. of <hi>October.</hi>
+                     </head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Here came Letters to both Houſes of Parliament by one Captaine <hi>Iohnſon</hi> from <hi>Yarmouth,</hi> Infor<g ref="char:EOLhyphen"/>ming them that they have there taken a ſhippe comming from <hi>Holland</hi> with great ſtore of A<g ref="char:EOLhyphen"/>munition about 400. barrells of Pouder, ten pee<g ref="char:EOLhyphen"/>ces of Ordnance and 150. of the Prince of <hi>Oranges</hi> chiefe Officers &amp; Souldiers, &amp; ſome Treaſure &amp; other Armes which the Queen had procured to aſſiſt his Majeſty, and they intended to have landed there at <hi>Newcaſtle,</hi> but the ſhip ſprang a leake at Sea, and ſo was forced to come into into
+<hi>Yarmouth,</hi> upon the firſt taking of the ſhippe they pretending they had brought thoſe proviſi<g ref="char:EOLhyphen"/>ons for the Parliament, but upon further examination it appea<g ref="char:EOLhyphen"/>red otherwiſe, however by good providence they are now likely to be imployed for the ſervice of the Parliament: The ſhip be<g ref="char:EOLhyphen"/>ing ordered to be ſafely conveyed up to <hi>London</hi> by the Earle of
+<hi>Warwicke,</hi> and the Prince of Oranges Commanders, alſo to come
+<pb facs="tcp:58949:8"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Maſter thereof and company having certaine Letters which they brought from the Queene; tyed them up in a peece of Sayle cloth, and with a cord tyed a great Cannot bullet to the end thereof to make it ſincke, and ſo threw it into the Sea by the ſide of the ſhippe to prevent diſcovery.</p>
+                     <p>But the Letters being found were alſo brought to the Parlia<g ref="char:EOLhyphen"/>ment and broake open, but the wett had ſo defaced the writing they could ſcarſely be read, onely thus much was informed by them, that the Queene hath provided another ſhippe with great ſtore of Amunition and moneys to come ſpeedily after this ſhippe to <hi>Newcaſtle</hi> to relieve his Maieſties forces.</p>
+                     <p>But the Parliament upon conſideration of this buſineſſe have ſent to the Earle of <hi>Warwicke</hi> to deſire him that withall poſſible vigilency he would guard the Coaſts from
+<hi>Holland,</hi> whereby that ſhippe may be alſo intercepted in her paſſage to <hi>Newcaſtle.</hi>
+                     </p>
+                     <p>There was a certaine report made to the Parliament, that the King hath ſent to his Coyners of the Mint at the Tower to bring their coyning mould and other implements, and come
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to his Army at
+<hi>Shrewesbury,</hi> but the Parliament have ſent
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>der Or<g ref="char:EOLhyphen"/>der to the Maſters of the Mint that they ſhall not goe.</p>
+                     <p>There was alſo certaine information given to the houſes by letters that his Majeſtie hath ſent the Lord <hi>Faulkland</hi> his cheife Secretary over into <hi>Ireland,</hi> with ſome private inſtructions con<g ref="char:EOLhyphen"/>cerning the Army, but the full end, and intent thereof cannot as yet be learned.</p>
+                     <p>However the Parliamen have ordered that Maſter
+<hi>Goodwin,</hi> and Maiſter <hi>Reynolds</hi> members of their houſe appointed for that ſervice ſhall have their ſpeedy diſpatches and be ſent over to <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> but the Earle of <hi>Leiceſter</hi> it is much feared will ſcarſely be permited to goe over at all, for that he refuſed to ſhew to the Parliament his inſtructions which he had from his Majeſtie for the ordering of the affaires of <hi>Ireland</hi> whereby the Parliament have a great Iealouſie of him.</p>
+                     <p>
+                        <pb facs="tcp:58949:8"/> Captaine <hi>Price</hi> a member of the Houſe of Commons hath been very buſie there abouts in puting the Comiſſion of Array in Ex<g ref="char:EOLhyphen"/>ecution, and doeth give out great threats againſt ſuch as refuſe to obey it, where upon it was voted by the Commons that hee ſhould be expelled the houſe, and a nother to be choſen in his roome.</p>
+                     <p>There was alſo one Maſter <hi>Price</hi> a Suffolke man brought be<g ref="char:EOLhyphen"/>fore the Commons and co<g ref="char:cmbAbbrStroke">̄</g>mitted to Priſon for ſaying that the Earle of <hi>Pembrooke</hi> was an Aſs, A knave, and a foole, and that the Parliament men, were noe better then a company of beggerly fellowes, choſen out of the very ſcume of the people &amp;c.</p>
+                     <p>The houſes received certaine information by letters out of
+<hi>Cornewell</hi> that Sir Ralpeh <hi>Hopton</hi> and ſome other of the Marques of <hi>Hartfords</hi> cheife Confederates, that left the <hi>Marques to My<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ard</hi> for that they could not gett paſſage wiih him over the <hi>Sev<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>,</hi> have been at <hi>Plymouth</hi> and have pillaged, and ſpoyled divers ho<g ref="char:EOLhyphen"/>neſt men there abouts, and that he and his company are now marched into <hi>Cornwell</hi> and have poſſeſſed them ſelves of a very ſtrong Caſtle there belonging to Sir Nicholas <hi>Sla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y,</hi> who is alſo one of theire Confederates, but the Marques of <hi>Hartford</hi> is
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Cardife Caſtle</hi> in
+<hi>Wales.</hi>
+                     </p>
+                     <p>The Parliament have reſceived the bill for the aſſembly of the <hi>Clergy</hi> to conſider of the ſettling of Religion and Ceremonies and they have added to the Liſt divers Scotch Miniſters<g ref="char:punc">▪</g> that are ſent over by the Kingdome of <hi>Scotland,</hi> to ioyne with our Aſſem<g ref="char:EOLhyphen"/>bly for the ſetling of an uniformitie in Religion in both King<g ref="char:EOLhyphen"/>domes and it is ordered that the meeting ſhall begin by the 5. of
+<hi>November</hi> next.</p>
+                     <p>The houſes of Parliament have tooke Order for the ſending to the <hi>Scotch</hi> forces in <hi>Ireland</hi> that they would ſend up to the Par<g ref="char:EOLhyphen"/>liament the Earle of <hi>Antrim</hi> an Arch-Rebell whom they touke priſoner in the North of <hi>Ireland,</hi> that he may be heare examined concerning the Rebells proceedings.</p>
+                     <p>It was informed the houſes by letters from
+<hi>Hereford-ſhire</hi> that Coun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y do much repent themſelves for theire Malignancie a<g ref="char:EOLhyphen"/>gainſt
+<pb n="6" facs="tcp:58949:9"/>the Parliament for that ſo the c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ring<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Kings Cava<g ref="char:EOLhyphen"/>liers tends to nothing but diſtruction, and therefore they have ſent 400. Voluntiers to the Earle of <hi>Eſſex,</hi> and his Excellencie hath ſent the Earle of <hi>Stanford</hi> with 500. horſe and 2000
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to <hi>Hereford,</hi> and that they have poſſeſſed them ſelves of that Citty and fortifie it for the Parliament.</p>
+                     <p>It was alſo informed the hovſes that the Earle of
+<hi>Bath</hi> is <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> by the Earle of <hi>Bedfords</hi> Troopes in <hi>Devonſhire</hi> and that he and divers others of the Marquis of <hi>Hartfords</hi> Cavalliers are bringing up to the Parliament.</p>
+                     <p>The Marguis of <hi>Hartfords</hi> Steward was upon Thurſday laſt brought up to the parliament, and Commited to the Gateho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </p>
+                     <p>There came more Letters to the Houſes from
+<hi>Shreweſbury</hi> in<g ref="char:EOLhyphen"/>forming that his Majeſtie makes great proviſions for the ce<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ing of
+<hi>Shreweſbury,</hi> but Prince <hi>Robert</hi> with the maine force is marched to <hi>Bridge North</hi> a place of ſpeciall Eminencie, where they intend to place them ſelves for a pitcht battell, the King
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to ſtay at
+<hi>Shrewſbury</hi> and hath reſerved a part of his forces for a Gariſon there, his Majeſty hath cauſed all the houſes without the Walls of the Towne to be taken downe that ſo he may with more Conveniencie plant his Ordnance to ſecure the Towne, but the Towneſmen doe not reliſh theſe proceedings and are much troubled at it.</p>
+                     <p>Vpon Friday laſt the Parliament received further information by Letters from <hi>Shrewesbury,</hi> that Prince <hi>Robert</hi> with his Maie<g ref="char:EOLhyphen"/>ſties maine forces is matched from <hi>Bridge North,</hi> and go<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> more neere to the Lord Generalls Army, and that hee is now within 15 miles of <hi>Worceſter,</hi> and that ſome ſudden attempt is expected betwixt the two Armies: It is boaſted that the Kings Forces is 20000 ſtrong, but it is thought hee wants a quarter of the number.</p>
+                     <p>It was alſo informed the Houſes that upon the Earle of War<g ref="char:EOLhyphen"/>wickes taking of the two ſhippes before Newcaſtle Captain
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ſtradling Made eſcape from his ſhippe in his long boate, and that he is now gone into
+<hi>Ireland.</hi>
+                     </p>
+                     <p>
+                        <pb n="5" facs="tcp:58949:9"/> As alſo it was informed that the Lord
+<hi>Paukt</hi> is of certaine gone over into <hi>Ireland</hi> with the Lord
+<hi>Faulkeland,</hi> and that the in<g ref="char:EOLhyphen"/>tent of their going is to waſt over a Regement or two of the forces, there to aſſiſt his Majeſtie.</p>
+                     <p>This afternooe Sir Robert Hern High Shreiffe for the Coun<g ref="char:EOLhyphen"/>ty of Lincolne who was lately apprehended by the Parliaments Forces in that Crunty for his great delinquency in oppoſing the County in their yealding obedience to the Parliament, and a cheife Array man, who upon his firſt apprehending was ſo unru<g ref="char:EOLhyphen"/>ly, that the Country was enforced to tie him in a Cart, and carry him to Boſton priſon, was this day brought with a ſtrong guard to London, and committed priſonor to the Tower, till the fur<g ref="char:EOLhyphen"/>ther leaſure of the Parliament to examine him.</p>
+                     <p>Alſo the under Keeper of the Gate-houſe that had charge of Captaine Legg, was that after-noune brought before the Com<g ref="char:EOLhyphen"/>mons and examined cencerning Captaine Leggs eſcape, but would not confeſſe any thing concerning the ſame onely that the cheife Keeper hath alſo abſented himſelfe, and as it is con<g ref="char:EOLhyphen"/>jectured is gone a long with Captaine Legg to his Majeſty.</p>
+                     <p>Where upon it was Ordered that the under keeper ſhould be Comitted to the Serjeant at Armes, and a more ſtrict courſe to be taken for his Examination.</p>
+                     <p>There came alſo Letters to the Houſes from Maſter
+<hi>Srickland</hi> at the Hague, informing the faire correſpondency which the State deſire to hold with the Parliament, &amp; that with there per<g ref="char:EOLhyphen"/>miſſion, there ſhalbee no ſupplies ſent from thence to his Maies<g ref="char:EOLhyphen"/>tie, But the Queen by underhand dealing, and by the meanes of the Prince of Orange hath procuredſome proviſions which ſhee intends to bring along with her into <hi>England,</hi> there being 14-ſayle of Shipps that lye ready for her Tranſportation.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
